@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashry</h1>
 <h3 align="center">A Full Stack & Flutter Developer crafting real-world solutions</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpandhgh/arpandhgh/master/assets/wave.svg" alt="wave divider" width="100%"/>
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="celebration"/>
@@ -44,4 +42,3 @@ I believe that great developers are not defined by code that *just works*, but b
 ![](https://github-readme-stats.vercel.app/api?username=imohammudAshry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=imohammudAshry&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imohammudAshry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=imohammudAshry&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 
-<img src="https://raw.githubusercontent.com/arpandhgh/arpandhgh/master/assets/wave.svg" alt="wave" width="100%"/>
