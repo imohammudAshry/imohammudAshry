@@ -25,7 +25,6 @@ I believe that great developers are not defined by code that *just works*, but b
 
 
 
-<img src="https://github.com/arpandhgh/arpandhgh/blob/master/assets/wave.svg" />
 
 ## 🏆 GitHub Achievements
 <p align="center">
