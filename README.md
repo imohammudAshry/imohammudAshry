@@ -9,10 +9,10 @@
 ## 💫 About Me
 
 Passionate Full Stack Developer & Flutter App Developer currently studying Computer Science at Ain Shams University.
+<img align="right" width="300" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 
 I believe that great developers are not defined by code that *just works*, but by clean architecture, strong fundamentals, and the ability to solve problems efficiently.
 
-<img align="right" width="300" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 🔹 I build projects every day  
 🔹 I focus on strengthening core foundations  
 🔹 I love learning deeply, not superficially  
@@ -36,15 +36,4 @@ I believe that great developers are not defined by code that *just works*, but b
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=imohammudAshry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=imohammudAshry&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imohammudAshry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=imohammudAshry&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-## 📈 3D Contribution Graph
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/asset/desktop.gif?raw=true" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
